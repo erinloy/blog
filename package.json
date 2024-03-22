@@ -5,6 +5,9 @@
     "build": "next build",
     "start": "next start"
   },
+  "engines": {
+    "node": "^21.7.1"
+  },
   "dependencies": {
     "classnames": "^2.5.1",
     "date-fns": "^3.3.1",
